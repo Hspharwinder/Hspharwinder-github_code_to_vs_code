@@ -1,4 +1,4 @@
-# Hspharwinder-github_code_to_vs_code
+# github_code_to_vs_code
 
 type 1s after github change into code
 
